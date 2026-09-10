@@ -1,0 +1,7 @@
+# 依赖与缓存
+__pycache__/
+*.pyc
+
+# 运行时数据（每台设备各自生成，不入库）
+dayplan.json
+snapshots/
